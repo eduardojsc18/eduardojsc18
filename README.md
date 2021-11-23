@@ -22,5 +22,5 @@
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=Outlook&logoColor=white&link=mailto:eduardojsc18@outlook.com" /></a>
 
   <a href="https://www.linkedin.com/in/eduardojsc/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardojsc" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>  
