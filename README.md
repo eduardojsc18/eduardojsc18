@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>FULL STACK JAVASCRIPT - TALL STACK</strong>
+  🦄 Linguagens: <strong>FULL STACK JAVASCRIPT </strong> - <strong>TALL STACK</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS CODE - PHP STORM - PHOTOSHOP - SOURCETREE - GITHUB - XAMPP - HEIDISQL </strong>
+  💼 Ferramentas: <strong>VS CODE</strong> - <strong>PHP STORM</strong> - <strong>PHOTOSHOP</strong> - <strong>SOURCETREE</strong> - <strong>GITHUB</strong> - <strong>XAMPP</strong> - <strong>HEIDISQL</strong>
 </p>
 
 <p align="left">
@@ -19,8 +19,8 @@
 
 <p align="left">
   <a href="mailto:eduardojsc18@outlook.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white&link=mailto:eduardojsc18@outlook.com" /></a>
 
   <a href="https://www.linkedin.com/in/eduardojsc/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardojsc" /></a>
 </p>  
