@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://repository-images.githubusercontent.com/427024343/5b3efe20-d6b3-4ae4-8ccb-4a45451b0cf8" min-width="400px" max-width="400px" width="400px" align="right" alt="developer working">
 
 <p align="left"> 
   Hi, my name is Eduardo José, I currently live in Santa Isabel, SP. I've been working for 1 year with <strong>Web Development</strong>. <br>
@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  🦄 Frameworks: <strong>BOOTSTRAP</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> -  <strong>LIVEWIRE</strong> - <strong>LARAVEL</strong> - <strong>VUE.JS</strong> - <strong>WORDPRESS</strong>
+  🦄 Frameworks: <strong>BOOTSTRAP</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> -  <strong>LIVEWIRE</strong> - <strong>LARAVEL</strong> - <strong>VUE.JS</strong>(studying) - <strong>WORDPRESS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS CODE</strong> - <strong>PHP STORM</strong> - <strong>PHOTOSHOP</strong> - <strong>SOURCETREE</strong> - <strong>GITHUB</strong> - <strong>XAMPP</strong> - <strong>HEIDISQL</strong>
+  💼 Tools: <strong>VS CODE</strong> - <strong>PHP STORM</strong> - <strong>PHOTOSHOP</strong> - <strong>SOURCETREE</strong> - <strong>GITHUB</strong> - <strong>XAMPP</strong> - <strong>HEIDISQL</strong>
 </p>
 
 <p align="left">
