@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/427024343/5b3efe20-d6b3-4ae4-8ccb-4a45451b0cf8" min-width="400px" max-width="400px" width="400px" align="right" alt="developer working">
+<img src="https://repository-images.githubusercontent.com/427024343/5b3efe20-d6b3-4ae4-8ccb-4a45451b0cf8" min-width="400px" max-width="350px" width="350px" align="right" alt="developer working">
 
 <p align="left"> 
   Hi, my name is Eduardo José, I currently live in Santa Isabel, SP. I've been working for 1 year with <strong>Web Development</strong>. <br>
