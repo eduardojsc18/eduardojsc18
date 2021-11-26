@@ -1,12 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, me chamo Eduardo José, atualmente moro em Santa Isabel, SP. Estou trabalhando a 1 ano com <strong>Desenvolvimento Web</strong>.<br>
-  Sou formado em Análise e Desenvolvimento de Sistemas (2018) e atualmente estudo FULLSTACK JAVASCRIPT e TALL STACK para me aperfeiçoar ao mercado.
+  Hi, my name is Eduardo José, I currently live in Santa Isabel, SP. I've been working for 1 year with <strong>Web Development</strong>. <br>
+  I graduated in Systems Analysis and Development (2018) and currently study FULLSTACK JAVASCRIPT and TALL STACK. I always try to improve myself in the web development market
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>FULL STACK JAVASCRIPT </strong> - <strong>TALL STACK</strong>
+  🦄 Languages: <strong>HTML</strong> - <strong>CSS</strong> -  <strong>SASS</strong> - <strong>JAVASCRIPT</strong> - <strong>PHP</strong>
+</p>
+
+<p align="left">
+  🦄 Frameworks: <strong>BOOTSTRAP</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> -  <strong>LIVEWIRE</strong> - <strong>LARAVEL</strong> - <strong>VUE.JS</strong> - <strong>WORDPRESS</strong>
 </p>
 
 <p align="left">
@@ -14,7 +18,7 @@
 </p>
 
 <p align="left">
-  💌 Caso precise entrar em contato, segue as formas: ⤵️
+  💌 If you need to get in touch, here are the ways: ⤵️
 </p>
 
 <p align="left">
