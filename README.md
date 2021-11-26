@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Frameworks: <strong>BOOTSTRAP</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> -  <strong>LIVEWIRE</strong> - <strong>LARAVEL</strong> - <strong>VUE.JS</strong>(studying) - <strong>WORDPRESS</strong>
+  🎨 Frameworks: <strong>BOOTSTRAP</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> -  <strong>LIVEWIRE</strong> - <strong>LARAVEL</strong> - <strong>VUE.JS</strong>(studying) - <strong>WORDPRESS</strong>
 </p>
 
 <p align="left">
