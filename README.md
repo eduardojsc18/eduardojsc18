@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>HTML</strong> - <strong>CSS</strong> -  <strong>SASS</strong> - <strong>JAVASCRIPT</strong> - <strong>PHP</strong>
+  🎨 Languages: <strong>HTML</strong> - <strong>CSS</strong> -  <strong>JAVASCRIPT</strong> - <strong>PHP</strong>
 </p>
 
 <p align="left">
-  🎨 Frameworks: <strong>BOOTSTRAP</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> -  <strong>LIVEWIRE</strong> - <strong>LARAVEL</strong> - <strong>VUE.JS</strong>(studying) - <strong>WORDPRESS</strong>
+  🦄 Frameworks: <strong>BOOTSTRAP</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> -  <strong>LIVEWIRE</strong> - <strong>LARAVEL</strong> - <strong>VUE.JS</strong> - <strong>INERTIA.JS</strong> - <strong>WORDPRESS</strong>
 </p>
 
 <p align="left">
