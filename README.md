@@ -1,8 +1,8 @@
 <img src="https://repository-images.githubusercontent.com/427024343/5b3efe20-d6b3-4ae4-8ccb-4a45451b0cf8" min-width="400px" max-width="350px" width="350px" align="right" alt="developer working">
 
 <p align="left"> 
-  Hi, my name is Eduardo José, I currently live in Santa Isabel, SP. I've been working for 1 year with <strong>Web Development</strong>. <br>
-  I graduated in Systems Analysis and Development (2018) and currently study FULLSTACK JAVASCRIPT and TALL STACK. I always try to improve myself in the web development market
+  Hi, my name is Eduardo José, I currently live in Santa Isabel, SP. I've been working for over 1 year with <strong>Web Development</strong>. <br><br>
+  I graduated in Systems Analysis and Development (2018) and currently studying frameworks from the VUE.JS environment (I'm loving it 💖).
 </p>
 
 <p align="left">
@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  🦄 Frameworks: <strong>BOOTSTRAP</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> -  <strong>LIVEWIRE</strong> - <strong>LARAVEL</strong> - <strong>VUE.JS</strong> - <strong>INERTIA.JS</strong> - <strong>WORDPRESS</strong>
+  🦄 Frameworks: <strong>BOOTSTRAP</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> -  <strong>LIVEWIRE</strong> - <strong>LARAVEL</strong> - <strong>VUE.JS</strong> - <strong>INERTIA.JS</strong> - <strong>NUXT.JS</strong> - <strong>WORDPRESS</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VS CODE</strong> - <strong>PHP STORM</strong> - <strong>PHOTOSHOP</strong> - <strong>SOURCETREE</strong> - <strong>GITHUB</strong> - <strong>XAMPP</strong> - <strong>HEIDISQL</strong>
+  💼 Tools: <strong>DOCKER</strong> - <strong>VS CODE</strong> - <strong>PHP STORM</strong> - <strong>PHOTOSHOP</strong> - <strong>SOURCETREE</strong> - <strong>GITHUB</strong> - <strong>XAMPP</strong> - <strong>HEIDISQL</strong> - <strong>TABLE PLUS</strong>
 </p>
 
 <p align="left">
