@@ -1,8 +1,19 @@
 <img src="https://repository-images.githubusercontent.com/427024343/5b3efe20-d6b3-4ae4-8ccb-4a45451b0cf8" min-width="400px" max-width="350px" width="350px" align="right" alt="developer working">
 
 <p align="left"> 
-  Hi, my name is Eduardo José, I currently live in Santa Isabel, SP. I've been working for over 1 year with <strong>Web Development</strong>. <br><br>
-  I graduated in Systems Analysis and Development (2018) and currently studying frameworks from the VUE.JS environment (I'm loving it 💖).
+  Hello, welcome to my profile! 👋🏻👽
+</p>
+
+<p align="left"> 
+  My name is Eduardo José, I live in São Paulo - Brazil, graduated in Systems Analysis and Development and working with Web Development since 2021.
+</p>
+
+<p align="left"> 
+  Currently focused on application development using the Framework Nuxt.JS, Vue.JS and TailwindCSS on the Front-end and Laravel on the Back-end (I love this stack! ❤️)
+</p>
+
+<p align="left"> 
+ Here are some tags about me:
 </p>
 
 <p align="left">
@@ -10,7 +21,7 @@
 </p>
 
 <p align="left">
-  🦄 Frameworks: <strong>BOOTSTRAP</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> -  <strong>LIVEWIRE</strong> - <strong>LARAVEL</strong> - <strong>VUE.JS</strong> - <strong>INERTIA.JS</strong> - <strong>NUXT.JS</strong> - <strong>WORDPRESS</strong>
+  🦄 Frameworks: <strong>NUXT.JS</strong> - <strong>VUE.JS</strong> - <strong>TAILWINDCSS</strong> - <strong>ALPINE.JS</strong> - <strong>BOOTSTRAP</strong> - <strong>LIVEWIRE</strong> - <strong>INERTIA.JS</strong> - <strong>LARAVEL</strong> - <strong>WORDPRESS</strong>
 </p>
 
 <p align="left">
@@ -22,7 +33,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:eduardojsc18@outlook.com" alt="Gmail">
+  <a href="mailto:eduardojsc18@outlook.com" alt="Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/eduardojsc/" alt="Linkedin">
